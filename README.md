@@ -1,11 +1,11 @@
 # WeRateDogs - Wrangling and Analyze Data
 
 ## Table of Contents
-    * Data Description
-    * Data Gathering
-    * Assessing Data
-    * Data Cleaning
-    * Visualizing Data and Conclusions
+    - Data Description
+    - Data Gathering
+    - Assessing Data
+    - Data Cleaning
+    - Visualizing Data and Conclusions
 
 
 ## Dataset Description
@@ -13,6 +13,7 @@ The dataset that we will be wrangling (and analyzing and visualizing) is the twe
  
 ## Data Gathering
 We gathered data from 3 different sources:-
+
 **1- CSV file: WeRateDogs Twitter archive data (twitter_archive_enhanced.csv).**
 
 The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, It filtered for tweets with ratings only (there are 2356).
@@ -99,7 +100,7 @@ Using functions and methods to reveal something about your data's quality and ti
 In this section, analyze and visualize your wrangled data to get insights.
  
 1- The most common dog names: Charlie, Lucy, Cooper, Oliver.
-
+![figure 1](https://user-images.githubusercontent.com/65326291/187083815-efc3c468-72a3-469c-987a-32b003f38a01.png)
 
 2- The most dog tweet has the name (Duddles) which got the biggest number of favourited (107956) and (45849) retweeted.
 
@@ -108,5 +109,5 @@ In this section, analyze and visualize your wrangled data to get insights.
 4- 50% of rating numerator is (11) and rating denominator is (10).
 
 5- The most common stage in dogs is Pupper.
-
+![figure 2](https://user-images.githubusercontent.com/65326291/187083839-f5c66053-4da9-471c-85c5-86b48e89a261.png)
 
