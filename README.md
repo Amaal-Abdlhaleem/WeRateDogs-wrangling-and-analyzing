@@ -111,6 +111,8 @@ In this section, analyze and visualize your wrangled data to get insights.
 4- 50% of rating numerator is (11) and rating denominator is (10).
 
 5- The most common stage in dogs is Pupper.
+
+
 ![Dogs stages](https://user-images.githubusercontent.com/65326291/187084506-ba757a2e-090d-4cf5-9918-825eedf2b904.png)
 
 
