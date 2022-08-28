@@ -1,5 +1,7 @@
 # WeRateDogs - Wrangling and Analyze Data
 
+![dog-rates-social](https://user-images.githubusercontent.com/65326291/187084491-61e58ed3-2eb2-4f2c-8dc3-9ba75ef6dbfd.jpg)
+
 ## Table of Contents
     - Data Description
     - Data Gathering
@@ -100,7 +102,7 @@ Using functions and methods to reveal something about your data's quality and ti
 In this section, analyze and visualize your wrangled data to get insights.
  
 1- The most common dog names: Charlie, Lucy, Cooper, Oliver.
-![figure 1](https://user-images.githubusercontent.com/65326291/187083815-efc3c468-72a3-469c-987a-32b003f38a01.png)
+![Common dog names](https://user-images.githubusercontent.com/65326291/187084497-1187eb21-8273-457e-a2df-af534dd17882.png)
 
 2- The most dog tweet has the name (Duddles) which got the biggest number of favourited (107956) and (45849) retweeted.
 
@@ -109,5 +111,6 @@ In this section, analyze and visualize your wrangled data to get insights.
 4- 50% of rating numerator is (11) and rating denominator is (10).
 
 5- The most common stage in dogs is Pupper.
-![figure 2](https://user-images.githubusercontent.com/65326291/187083839-f5c66053-4da9-471c-85c5-86b48e89a261.png)
+![Dogs stages](https://user-images.githubusercontent.com/65326291/187084506-ba757a2e-090d-4cf5-9918-825eedf2b904.png)
+
 
