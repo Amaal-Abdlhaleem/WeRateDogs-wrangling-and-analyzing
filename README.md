@@ -1,5 +1,31 @@
 # WeRateDogs - Wrangling and Analyze Data
 
+This project is a part of **Udacity ALX-T Data Analyst Nanodegree**.
+
+## Project Requirements:
+
+Step 1: Gathering data.
+
+Step 2: Assessing data:
+
+    **Detect and document at least eight (8) quality issues and two (2) tidiness issues** .
+
+Step 3: Cleaning data:
+
+      Clean all of the issues you documented while assessing.
+
+Step 4: Storing data.
+
+Step 5: Analyzing, and visualizing data:
+        
+        **Produce at least three (3) insights and one (1) visualization** .
+
+Step 6: Reporting:
+
+        - Data wrangling efforts
+        - Data analyses and visualizations
+
+
 ![dog-rates-social](https://user-images.githubusercontent.com/65326291/187084491-61e58ed3-2eb2-4f2c-8dc3-9ba75ef6dbfd.jpg)
 
 ## Table of Contents
