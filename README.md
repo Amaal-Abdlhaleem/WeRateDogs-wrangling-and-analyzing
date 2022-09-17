@@ -6,24 +6,18 @@ This project is a part of **Udacity ALX-T Data Analyst Nanodegree**.
 
 Step 1: Gathering data.
 
-Step 2: Assessing data:
+Step 2: Assessing data: **Detect and document at least eight (8) quality issues and two (2) tidiness issues** .
 
-    **Detect and document at least eight (8) quality issues and two (2) tidiness issues** .
-
-Step 3: Cleaning data:
-
-      Clean all of the issues you documented while assessing.
+Step 3: Cleaning data: Clean all of the issues you documented while assessing.
 
 Step 4: Storing data.
 
-Step 5: Analyzing, and visualizing data:
-        
-        **Produce at least three (3) insights and one (1) visualization** .
+Step 5: Analyzing, and visualizing data: **Produce at least three (3) insights and one (1) visualization** .
 
 Step 6: Reporting:
 
-        - Data wrangling efforts
-        - Data analyses and visualizations
+   - Data wrangling efforts
+   - Data analyses and visualizations
 
 
 ![dog-rates-social](https://user-images.githubusercontent.com/65326291/187084491-61e58ed3-2eb2-4f2c-8dc3-9ba75ef6dbfd.jpg)
@@ -65,7 +59,7 @@ It is simple. It involves looking at the dataset in its entirety in a jupyter no
   
 Using functions and methods to reveal something about your data's quality and tidiness.
 
-        **Quality issues**
+   **Quality issues**
         
       - df_twitter_archive_enhanced
       
@@ -99,7 +93,7 @@ Using functions and methods to reveal something about your data's quality and ti
           
           12- Delete the [timestamp] column from the merged dataset as it is found as [created_at] column in the tweet_df.
 
-        **Tidiness issues**
+   **Tidiness issues**
         
           1- The 3 tables should be in a one dataset, wil merge it.
           
